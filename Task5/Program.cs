@@ -22,10 +22,10 @@ namespace Task1
             int high = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Podaj swoją wagę:");
-            double weight = double.Parse(Console.ReadLine());
+            float weight = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Ile metrów kw ma twoje mieszkanie?");
-            double area = double.Parse(Console.ReadLine());
+            float area = float.Parse(Console.ReadLine());
 
             
         }
